@@ -1,0 +1,23 @@
+{
+  "name": "NearMap",
+  "version": "1.0.0",
+  "description": "gulp project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "",
+    "url": ""
+  },
+  "author": "Yurii",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dinocompany/NearMap"
+  },
+  "homepage": "https://github.com/Dinocompany/NearMap#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.3",
+    "gulp": "^4.0.0"
+  }
+}
