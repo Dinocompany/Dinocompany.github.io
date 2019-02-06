@@ -12,6 +12,10 @@ value3 : 'yyy',
 value4 : 'YYY'
 }
 
+var dataArray = new Array;
+for(var o in dataObject) {
+    dataArray.push(dataObject[o]);
+}
 
 dataObject['Name'] = localObject['fullName.surname'],
 dataObject['value1'] = values['value1'],
